@@ -1,0 +1,203 @@
+{
+  "astro_ids": {
+    "planet": {
+      "Sun": 101,
+      "Moon": 102,
+      "Mercury": 103,
+      "Venus": 104,
+      "Mars": 105,
+      "Jupiter": 106,
+      "Saturn": 107,
+      "Uranus": 108,
+      "Neptune": 109,
+      "Pluto": 110
+    },
+    "zodiac_sign": {
+      "Aries": 201,
+      "Taurus": 202,
+      "Gemini": 203,
+      "Cancer": 204,
+      "Leo": 205,
+      "Virgo": 206,
+      "Libra": 207,
+      "Scorpio": 208,
+      "Sagittarius": 209,
+      "Capricorn": 210,
+      "Aquarius": 211,
+      "Pisces": 212
+    },
+    "house": {
+      "1st": 301,
+      "2nd": 302,
+      "3rd": 303,
+      "4th": 304,
+      "5th": 305,
+      "6th": 306,
+      "7th": 307,
+      "8th": 308,
+      "9th": 309,
+      "10th": 310,
+      "11th": 311,
+      "12th": 312
+    },
+    "aspect": {
+      "Conjunction": 401,
+      "Opposition": 402,
+      "Square": 403,
+      "Trine": 404,
+      "Sextile": 405,
+      "Quincunx": 406,
+      "Semisextile": 407,
+      "Semisquare": 408,
+      "Sesquiquadrate": 409
+    },
+    "element": {
+      "Fire": 501,
+      "Earth": 502,
+      "Air": 503,
+      "Water": 504
+    },
+    "modality": {
+      "Cardinal": 601,
+      "Fixed": 602,
+      "Mutable": 603
+    },
+    "special_points": {
+      "Ascendant": 701,
+      "Midheaven": 702,
+      "Vertex": 703,
+      "Part of Fortune": 704
+    },
+    "compound": {
+      "planet_sign": 800,
+      "planet_house": 801,
+      "planet_aspect_planet": 802,
+      "planet_sign_house": 803,
+      "aspect_between_planets": 804,
+      "planet_element": 805,
+      "planet_modality": 806,
+      "planet_aspect_modality": 807,
+      "zodiac_sign_house": 808,
+      "zodiac_sign_aspect": 809,
+      "zodiac_sign_element": 810,
+      "zodiac_sign_modality": 811,
+      "house_aspect": 812,
+      "house_element": 813,
+      "house_modality": 814,
+      "aspect_element": 815,
+      "aspect_modality": 816,
+      "element_modality": 817,
+      "planet_special_point": 818,
+      "zodiac_sign_special_point": 819,
+      "house_special_point": 820,
+      "aspect_special_point": 821,
+      "element_special_point": 822,
+      "modality_special_point": 823,
+      "compound_special_point": 824,
+      "planet_compound": 825,
+      "zodiac_sign_compound": 826,
+      "house_compound": 827,
+      "aspect_compound": 828,
+      "element_compound": 829,
+      "modality_compound": 830
+      
+    }
+  },
+  "numerology_ids": {
+    "core_numbers": {
+      "Life Path": 1001,
+      "Expression": 1002,
+      "Soul Urge": 1003,
+      "Personality": 1004,
+      "Birthday": 1005,
+      "Maturity": 1006,
+      "Hidden Passion": 1007,
+      "Karmic Debt": 1008,
+      "Karmic Lesson": 1009,
+      "Challenge": 1010,
+      "Pinnacle": 1011,
+      "Personal Year": 1012,
+      "Personal Month": 1013,
+      "Personal Day": 1014,
+      "Balance": 1015,
+      "pinnacle_cycles": 1016,
+      "soul_urge": 1017     
+    },
+    "pinnacle_cycles": {
+      "Pinnacle 1": 1101,
+      "Pinnacle 2": 1102,
+      "Pinnacle 3": 1103,
+      "Pinnacle 4": 1104
+    },
+    "personal_cycles": {
+      "Personal Year": 1201,
+      "Personal Month": 1202,
+      "Personal Day": 1203
+    },
+    "challenge_cycles": {
+      "Challenge 1": 1301,
+      "Challenge 2": 1302,
+      "Challenge 3": 1303,
+      "Challenge 4": 1304
+    },
+    "other": {
+      "Attitude": 1401,
+      "Balance": 1402,
+      "Bridge": 1403,
+      "Subconscious Self": 1404,
+      "Rational Thought": 1405,
+      "Planes of Expression": 1406,
+      "Essence": 1407,
+      "Personal Timing": 1408,
+      "Pythagorean Square": 1409,
+      "Chaldean Square": 1410,
+      "Astrological Numerology": 1411,
+      "Numerology Chart": 1412,
+      "Numerology Compatibility": 1413,
+      "Numerology Fusion": 1414,
+      "Astrology Fusion": 1415,
+      "Astrology Numerology Fusion": 1416
+      
+    
+    }
+  },
+  "fusion_ids": {
+    "astrology_numerology": {
+      "Sun + Life Path": 2001,
+      "Moon + Soul Urge": 2002,
+      "Ascendant + Expression": 2003,
+      "Chart Modality + Personality": 2004,
+      "Dominant Element + Hidden Passion": 2005,
+      "Planetary Transit + Personal Year": 2006,
+      "Retrograde Activity + Karmic Lessons": 2007
+    },
+    "compatibility": {
+      "Sun-Moon Fusion": 2101,
+      "Venus-Life Path Fusion": 2102,
+      "Mars-Personal Year Fusion": 2103,
+      "Jupiter-Soul Urge Fusion": 2104,  
+      "Saturn-Challenge Fusion": 2105,
+      "Uranus-Expression Fusion": 2106,
+      "Neptune-Personality Fusion": 2107,
+      "Pluto-Hidden Passion Fusion": 2108,
+      "Zodiac Sign Compatibility": 2109,
+      "House Compatibility": 2110
+    },
+    "predictive": {
+      "Transit-Lifepath Overlay": 2201,
+      "Eclipse-Pinnacle Trigger": 2202,
+      "Saturn Return-Year Match": 2203,
+      "Progressed Chart-Personal Year": 2204,
+      "Solar Arc Direction-Personal Month": 2205,
+      "Lunar Return-Challenge Cycle": 2206,
+      "Planetary Retrograde-Personal Day": 2207,
+      "Astrological Aspect-Personal Timing": 2208,
+      "Numerology Cycle-Transit Match": 2209,
+      "Astrological Event-Personal Cycle": 2210,
+      "Astrological Fusion-Predictive Match": 2211,
+      "Numerology Fusion-Predictive Match": 2212,
+      "Astrology-Numerology Fusion-Predictive Match": 2213
+    
+    }
+  }
+}

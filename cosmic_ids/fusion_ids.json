@@ -1,0 +1,255 @@
+{
+  "FUSION_AST_SUN_ARIES__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Bold visionary with deep inner wisdom. You act fast but reflect deeply.",
+    "categories": ["leadership", "intuition", "fire-mind"]
+  },
+  "FUSION_AST_MOON_PISCES__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Compassionate and intuitive leader. You inspire others with your emotional depth.",
+    "categories": ["empathy", "leadership", "water-heart"]
+}
+}
+{
+
+
+  "FUSION_AST_MOON_PISCES__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Compassionate leader with a strong sense of self. You inspire others through empathy.",
+    "categories": ["empathy", "leadership", "water-heart"]
+  },
+  "FUSION_AST_MERCURY_GEMINI__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Curious communicator with a thirst for knowledge. You blend intellect with spiritual insight.",
+    "categories": ["communication", "intellect", "air-mind"]
+  }
+}
+{
+
+  "FUSION_AST_VENUS_TAURUS__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Grounded and practical in love. You value stability and loyalty in relationships.",
+    "categories": ["relationships", "stability", "earth-heart"]
+  },
+  "FUSION_AST_MARS_SCORPIO__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Intense and transformative energy. You channel deep emotions into powerful actions.",
+    "categories": ["transformation", "passion", "water-mind"]
+  }
+}
+{
+  "FUSION_AST_JUPITER_SAGITTARIUS__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Optimistic and adventurous leader. You inspire others with your vision and enthusiasm.",
+    "categories": ["adventure", "leadership", "fire-heart"]
+  },
+  "FUSION_AST_SATURN_CAPRICORN__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Disciplined and wise. You balance ambition with spiritual depth.",
+    "categories": ["discipline", "wisdom", "earth-mind"]
+  }
+}
+{
+  "FUSION_AST_URANUS_AQUARIUS__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Innovative and independent leader. You challenge norms and inspire change.",
+    "categories": ["innovation", "leadership", "air-heart"]
+  },
+  "FUSION_AST_NEPTUNE_PISCES__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Dreamy and intuitive. You blend creativity with spiritual insight.",
+    "categories": ["creativity", "intuition", "water-mind"]
+  }
+}
+{
+  "FUSION_AST_PLUTO_SCORPIO__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Transformative and powerful. You lead with intensity and passion.",
+    "categories": ["transformation", "leadership", "fire-heart"]
+  },
+  "FUSION_AST_CHIRON_ARIES__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Healer with a warrior spirit. You blend courage with deep emotional insight.",
+    "categories": ["healing", "courage", "fire-mind"]
+  }
+}
+{
+  "FUSION_AST_LILITH_TAURUS__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Grounded and sensual. You embrace your desires with confidence.",
+    "categories": ["sensuality", "confidence", "earth-heart"]
+  },
+  "FUSION_AST_NORTH_NODE_GEMINI__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Curious and adaptable. You seek knowledge and understanding in all things.",
+    "categories": ["curiosity", "adaptability", "air-mind"]
+  }
+}
+{
+  "FUSION_AST_SOUTH_NODE_SAGITTARIUS__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Philosophical and expansive. You inspire others with your wisdom and vision.",
+    "categories": ["philosophy", "expansion", "fire-heart"]
+  },
+  "FUSION_AST_PART_OF_FORTUNE_CAPRICORN__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Disciplined and successful. You achieve your goals through hard work and perseverance.",
+    "categories": ["success", "discipline", "earth-mind"]
+  }
+}
+{
+  "FUSION_AST_BLACK_MOON_LILITH_AQUARIUS__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Rebellious and visionary. You challenge societal norms with your unique perspective.",
+    "categories": ["rebellion", "vision", "air-heart"]
+  },
+  "FUSION_AST_VERTEX_PISCES__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Spiritual and compassionate. You connect deeply with others on an emotional level.",
+    "categories": ["spirituality", "compassion", "water-mind"]
+  }
+}
+{
+  "FUSION_AST_IC_SCORPIO__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Intense and transformative roots. You draw strength from deep emotional connections.",
+    "categories": ["roots", "transformation", "water-heart"]
+  },
+  "FUSION_AST_DC_TAURUS__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Stable and loyal partnerships. You value security and trust in relationships.",
+    "categories": ["partnerships", "stability", "earth-mind"]
+  }
+}
+{
+  "FUSION_AST_MC_GEMINI__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Communicative and adaptable career path. You thrive in dynamic environments.",
+    "categories": ["career", "communication", "air-heart"]
+  },
+  "FUSION_AST_NORTH_NODE_SAGITTARIUS__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Adventurous and philosophical life journey. You seek truth and expansion.",
+    "categories": ["adventure", "philosophy", "fire-mind"]
+  }
+}
+{
+  "FUSION_AST_SOUTH_NODE_CAPRICORN__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Disciplined and ambitious past. You learn from your experiences to build a solid foundation.",
+    "categories": ["discipline", "ambition", "earth-heart"]
+  },
+  "FUSION_AST_PART_OF_FORTUNE_AQUARIUS__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Innovative and humanitarian fortune. You find success through unique ideas and social causes.",
+    "categories": ["innovation", "humanitarianism", "air-mind"]
+  }
+}
+{
+  "FUSION_AST_BLACK_MOON_LILITH_PISCES__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Mystical and intuitive. You embrace your spiritual side with confidence.",
+    "categories": ["mysticism", "intuition", "water-heart"]
+  },
+  "FUSION_AST_VERTEX_ARIES__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Dynamic and pioneering connections. You inspire others with your boldness.",
+    "categories": ["pioneering", "connections", "fire-mind"]
+  }
+}
+{
+  "FUSION_AST_IC_TAURUS__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Stable and nurturing roots. You find comfort in security and beauty.",
+    "categories": ["roots", "nurturing", "earth-heart"]
+  },
+  "FUSION_AST_DC_GEMINI__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Communicative and adaptable partnerships. You thrive in relationships that stimulate your mind.",
+    "categories": ["partnerships", "communication", "air-mind"]
+  }
+}
+{
+  "FUSION_AST_MC_SAGITTARIUS__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Adventurous and philosophical career path. You seek truth and expansion in your professional life.",
+    "categories": ["career", "adventure", "fire-heart"]
+  },
+  "FUSION_AST_NORTH_NODE_CAPRICORN__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Disciplined and ambitious life journey. You achieve success through hard work and perseverance.",
+    "categories": ["discipline", "ambition", "earth-mind"]
+  }
+}
+{
+  "FUSION_AST_SOUTH_NODE_AQUARIUS__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Innovative and humanitarian past. You learn from your experiences to inspire change.",
+    "categories": ["innovation", "humanitarianism", "air-heart"]
+  },
+  "FUSION_AST_PART_OF_FORTUNE_PISCES__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Spiritual and compassionate fortune. You find success through empathy and creativity.",
+    "categories": ["spirituality", "compassion", "water-mind"]
+  }
+}             
+{
+  "FUSION_AST_BLACK_MOON_LILITH_ARIES__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Bold and assertive. You embrace your individuality with confidence.",
+    "categories": ["individuality", "confidence", "fire-heart"]
+  },
+  "FUSION_AST_VERTEX_TAURUS__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Stable and nurturing connections. You value security and loyalty in relationships.",
+    "categories": ["nurturing", "stability", "earth-mind"]
+  }
+} 
+{
+  "FUSION_AST_IC_GEMINI__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Communicative and adaptable roots. You find comfort in intellectual stimulation.",
+    "categories": ["roots", "communication", "air-heart"]
+  },
+  "FUSION_AST_DC_SAGITTARIUS__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Adventurous and philosophical partnerships. You thrive in relationships that expand your horizons.",
+    "categories": ["partnerships", "adventure", "fire-mind"]
+  }
+}           
+{
+  "FUSION_AST_MC_CAPRICORN__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Disciplined and ambitious career path. You achieve success through hard work and discipline.",
+    "categories": ["career", "discipline", "earth-heart"]
+  },
+  "FUSION_AST_NORTH_NODE_AQUARIUS__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Innovative and humanitarian life journey. You learn from your experiences to inspire change.",
+    "categories": ["innovation", "humanitarianism", "air-heart"]
+  }
+}
+{
+  "FUSION_AST_SOUTH_NODE_PISCES__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Spiritual and compassionate past. You draw strength from your emotional depth.",
+    "categories": ["spirituality", "compassion", "water-heart"]
+  },
+  "FUSION_AST_PART_OF_FORTUNE_ARIES__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Dynamic and pioneering fortune. You find success through bold actions and leadership.",
+    "categories": ["pioneering", "success", "fire-mind"]
+  }
+}   
+{
+  "FUSION_AST_BLACK_MOON_LILITH_GEMINI__NUM_LP_1": {
+    "type": "fusion",
+    "description": "Curious and adaptable. You embrace change with an open mind.",
+    "categories": ["curiosity", "adaptability", "air-heart"]
+  },
+  "FUSION_AST_VERTEX_SAGITTARIUS__NUM_LP_7": {
+    "type": "fusion",
+    "description": "Philosophical and adventurous connections. You inspire others with your wisdom and vision.",
+    "categories": ["philosophy", "adventure", "fire-mind"]
+  }
+}

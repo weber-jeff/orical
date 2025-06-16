@@ -1,0 +1,16 @@
+{
+  "AST_SUN_ARIES": {
+    "type": "planet_in_sign",
+    "planet": "Sun",
+    "sign": "Aries",
+    "modality": "Cardinal",
+    "element": "Fire"
+  },
+  "AST_MOON_PISCES": {
+    "type": "planet_in_sign",
+    "planet": "Moon",
+    "sign": "Pisces",
+    "modality": "Mutable",
+    "element": "Water"
+  }
+}
